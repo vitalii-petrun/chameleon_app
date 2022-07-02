@@ -1,0 +1,19 @@
+name: bg_color_changer
+description: Test Task solution by Petrun Vitalii
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  solid_lints: ^0.0.11 
+
+flutter:
+  uses-material-design: true
