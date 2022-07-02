@@ -1,16 +1,14 @@
-# bg_color_changer
+# chameleon_app
 
-A new Flutter project.
+##Solution of the task given by Solid
 
-## Getting Started
+When you click on the screen, the background color changes
+depending on whether it is dark or light
+the color of the text is selected (white or black)
+Total background colors: 256^3 = 16777216
 
-This project is a starting point for a Flutter application.
+При клікові на екран змінюється фоновий колір та
+в залежності від того темний він чи світлий
+обирається колір тексту(білий чи чорний)
+Всього кольорів фону: 256^3 = 16777216
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
